@@ -1,0 +1,20 @@
+.oddNumbers {
+
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#secondElement {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourthElement {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+.fontsize {
+    font-size: 24px;
+}
