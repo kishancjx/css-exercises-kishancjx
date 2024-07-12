@@ -1,19 +1,32 @@
-.header  {
+.header {
   font-family: monospace;
-  background: papayawhip;
+  background: rgb(230, 189, 123);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+
 }
+
+
 
 .logo {
   font-size: 48px;
   font-weight: 900;
   color: tomato;
   background: white;
-  padding: 4px 32px;
+  
 }
 
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
+  display: flex;
+  /* align-items: center; */
+  padding: 8px;
+  gap: 10px;
+  
+  
 }
 
 a {
